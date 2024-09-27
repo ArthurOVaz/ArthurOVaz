@@ -5,8 +5,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpgMtPMFWfcDMzmhgMvLNVvhVrnCgHLVtZpdxqXQnmxvrnmWrXCdsQTjtnfJbSHjpcGZlf)
 
 ![ArthurOVaz GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurOVaz&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOVaz&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-##Tecnologias usadas:
+##Tecnologias 
 
 <div style="display: inline_block"><br/> 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
